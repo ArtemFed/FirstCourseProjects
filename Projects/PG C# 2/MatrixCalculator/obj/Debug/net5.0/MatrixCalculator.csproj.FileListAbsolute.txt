@@ -1,0 +1,16 @@
+C:\Users\artem\source\repos\MatrixCalculator\bin\Debug\net5.0\MatrixCalculator.exe
+C:\Users\artem\source\repos\MatrixCalculator\bin\Debug\net5.0\MatrixCalculator.deps.json
+C:\Users\artem\source\repos\MatrixCalculator\bin\Debug\net5.0\MatrixCalculator.runtimeconfig.json
+C:\Users\artem\source\repos\MatrixCalculator\bin\Debug\net5.0\MatrixCalculator.runtimeconfig.dev.json
+C:\Users\artem\source\repos\MatrixCalculator\bin\Debug\net5.0\MatrixCalculator.dll
+C:\Users\artem\source\repos\MatrixCalculator\bin\Debug\net5.0\ref\MatrixCalculator.dll
+C:\Users\artem\source\repos\MatrixCalculator\bin\Debug\net5.0\MatrixCalculator.pdb
+C:\Users\artem\source\repos\MatrixCalculator\obj\Debug\net5.0\MatrixCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\MatrixCalculator\obj\Debug\net5.0\MatrixCalculator.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\MatrixCalculator\obj\Debug\net5.0\MatrixCalculator.AssemblyInfo.cs
+C:\Users\artem\source\repos\MatrixCalculator\obj\Debug\net5.0\MatrixCalculator.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\MatrixCalculator\obj\Debug\net5.0\MatrixCalculator.dll
+C:\Users\artem\source\repos\MatrixCalculator\obj\Debug\net5.0\ref\MatrixCalculator.dll
+C:\Users\artem\source\repos\MatrixCalculator\obj\Debug\net5.0\MatrixCalculator.pdb
+C:\Users\artem\source\repos\MatrixCalculator\obj\Debug\net5.0\MatrixCalculator.genruntimeconfig.cache
+C:\Users\artem\source\repos\MatrixCalculator\obj\Debug\net5.0\MatrixCalculator.csproj.AssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\artem\source\repos\Transport\EKRLib\bin\Debug\net5.0\EKRLib.deps.json
+C:\Users\artem\source\repos\Transport\EKRLib\bin\Debug\net5.0\EKRLib.dll
+C:\Users\artem\source\repos\Transport\EKRLib\bin\Debug\net5.0\EKRLib.pdb
+C:\Users\artem\source\repos\Transport\EKRLib\obj\Debug\net5.0\EKRLib.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\Transport\EKRLib\obj\Debug\net5.0\EKRLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\Transport\EKRLib\obj\Debug\net5.0\EKRLib.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\Transport\EKRLib\obj\Debug\net5.0\EKRLib.AssemblyInfo.cs
+C:\Users\artem\source\repos\Transport\EKRLib\obj\Debug\net5.0\EKRLib.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\Transport\EKRLib\obj\Debug\net5.0\EKRLib.dll
+C:\Users\artem\source\repos\Transport\EKRLib\obj\Debug\net5.0\ref\EKRLib.dll
+C:\Users\artem\source\repos\Transport\EKRLib\obj\Debug\net5.0\EKRLib.pdb
+C:\Users\artem\source\repos\Transport\EKRLib\obj\Debug\net5.0\refint\EKRLib.dll

@@ -1,0 +1,32 @@
+C:\Users\artem\source\repos\PeerGrade1\bin\Debug\net5.0\PeerGrade1.exe
+C:\Users\artem\source\repos\PeerGrade1\bin\Debug\net5.0\PeerGrade1.deps.json
+C:\Users\artem\source\repos\PeerGrade1\bin\Debug\net5.0\PeerGrade1.runtimeconfig.json
+C:\Users\artem\source\repos\PeerGrade1\bin\Debug\net5.0\PeerGrade1.runtimeconfig.dev.json
+C:\Users\artem\source\repos\PeerGrade1\bin\Debug\net5.0\PeerGrade1.dll
+C:\Users\artem\source\repos\PeerGrade1\bin\Debug\net5.0\ref\PeerGrade1.dll
+C:\Users\artem\source\repos\PeerGrade1\bin\Debug\net5.0\PeerGrade1.pdb
+C:\Users\artem\source\repos\PeerGrade1\obj\Debug\net5.0\PeerGrade1.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\PeerGrade1\obj\Debug\net5.0\PeerGrade1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\PeerGrade1\obj\Debug\net5.0\PeerGrade1.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\PeerGrade1\obj\Debug\net5.0\PeerGrade1.AssemblyInfo.cs
+C:\Users\artem\source\repos\PeerGrade1\obj\Debug\net5.0\PeerGrade1.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\PeerGrade1\obj\Debug\net5.0\PeerGrade1.dll
+C:\Users\artem\source\repos\PeerGrade1\obj\Debug\net5.0\ref\PeerGrade1.dll
+C:\Users\artem\source\repos\PeerGrade1\obj\Debug\net5.0\PeerGrade1.pdb
+C:\Users\artem\source\repos\PeerGrade1\obj\Debug\net5.0\PeerGrade1.genruntimeconfig.cache
+C:\Users\artem\source\repos\Peergrades\PG C# 1\BullsAndCows\bin\Debug\net5.0\PeerGrade1.exe
+C:\Users\artem\source\repos\Peergrades\PG C# 1\BullsAndCows\bin\Debug\net5.0\PeerGrade1.deps.json
+C:\Users\artem\source\repos\Peergrades\PG C# 1\BullsAndCows\bin\Debug\net5.0\PeerGrade1.runtimeconfig.json
+C:\Users\artem\source\repos\Peergrades\PG C# 1\BullsAndCows\bin\Debug\net5.0\PeerGrade1.runtimeconfig.dev.json
+C:\Users\artem\source\repos\Peergrades\PG C# 1\BullsAndCows\bin\Debug\net5.0\PeerGrade1.dll
+C:\Users\artem\source\repos\Peergrades\PG C# 1\BullsAndCows\bin\Debug\net5.0\PeerGrade1.pdb
+C:\Users\artem\source\repos\Peergrades\PG C# 1\BullsAndCows\obj\Debug\net5.0\PeerGrade1.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\Peergrades\PG C# 1\BullsAndCows\obj\Debug\net5.0\PeerGrade1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\Peergrades\PG C# 1\BullsAndCows\obj\Debug\net5.0\PeerGrade1.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\Peergrades\PG C# 1\BullsAndCows\obj\Debug\net5.0\PeerGrade1.AssemblyInfo.cs
+C:\Users\artem\source\repos\Peergrades\PG C# 1\BullsAndCows\obj\Debug\net5.0\PeerGrade1.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\Peergrades\PG C# 1\BullsAndCows\obj\Debug\net5.0\PeerGrade1.dll
+C:\Users\artem\source\repos\Peergrades\PG C# 1\BullsAndCows\obj\Debug\net5.0\refint\PeerGrade1.dll
+C:\Users\artem\source\repos\Peergrades\PG C# 1\BullsAndCows\obj\Debug\net5.0\PeerGrade1.pdb
+C:\Users\artem\source\repos\Peergrades\PG C# 1\BullsAndCows\obj\Debug\net5.0\PeerGrade1.genruntimeconfig.cache
+C:\Users\artem\source\repos\Peergrades\PG C# 1\BullsAndCows\obj\Debug\net5.0\ref\PeerGrade1.dll

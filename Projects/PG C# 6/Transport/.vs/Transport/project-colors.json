@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f48ea0b5-163a-4d68-827a-554211269a6e": {
+      "ProjectGuid": "f48ea0b5-163a-4d68-827a-554211269a6e",
+      "DisplayName": "TransportPG6",
+      "ColorIndex": 0
+    },
+    "bb7ddd0c-cabb-4c90-917d-2a3a2a0c8653": {
+      "ProjectGuid": "bb7ddd0c-cabb-4c90-917d-2a3a2a0c8653",
+      "DisplayName": "EKRLib",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
